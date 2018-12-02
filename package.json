@@ -1,0 +1,27 @@
+{
+  "name": "theapp",
+  "version": "1.0.0",
+  "description": "In the end will be a fully working MEAN app for full stack tests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BejiitaImako/TheApp.git"
+  },
+  "keywords": [
+    "MEAN",
+    "test"
+  ],
+  "author": "Bejiita Imako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BejiitaImako/TheApp/issues"
+  },
+  "homepage": "https://github.com/BejiitaImako/TheApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
