@@ -1,0 +1,1 @@
+alert("The App js works!");
